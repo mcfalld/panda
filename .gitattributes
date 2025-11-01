@@ -1,1 +1,2 @@
 board/obj/*.bin.signed filter=lfs diff=lfs merge=lfs -text
+*.bin.signed filter=lfs diff=lfs merge=lfs -text
